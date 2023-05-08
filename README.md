@@ -31,6 +31,8 @@ my_project/
 
 Instead, I only have a `calculate_std.py` file that includes all the method and a `tf-binance-BTC_ETH-2022-07-21.gz` given by the problem. After running the `calculate_std.py`, you are expected to get an `output.csv` file, as the final result.
 
+I randomly selected 3 test case and the program passed the test.
+
 ## Solution description:
 
 I spent about 40 min on the problem:
